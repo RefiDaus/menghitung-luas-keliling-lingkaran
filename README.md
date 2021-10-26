@@ -1,16 +1,17 @@
-# menghitung-luas-keliling-lingkaran
+# MENGHITUNG LUAS KELILING LINGKARAN
 
 
-## Tatacara menghitung luas keliling lingkaran
-input data luas keliling lingkaran <p>
-tampilanya sebagai berikut
+## Tutorial Menginput Luas Keliling Lingkaran
+                                    Input Data Luas Keliling Lingkaran <p>
+Tampilanya Sebagai Berikut <P>
 ![Gambar 1](screenshot/ss1.png)
 
-klik run dan save hasilnya
+Klik Run Dan Save Hasilnya <P>
 ![Gambar 2](screenshot/ss2.png)
 
-flowchrat menghitung luas keliling lingkarang
+Flowchrat Menghitung Luas Keliling Lingkarang <P>
 ![Gambar 3](screenshot/Flowchart-menghitung-luas-lingkaran-2.png)
 
                                             SEKIAN PENJELASAN DARI SAYA
-                                            SEMOGA BERMANFAAT TERIMA KASIH
+                                                 SEMOGA BERMANFAAT
+                                                   TERIMA KASIH
