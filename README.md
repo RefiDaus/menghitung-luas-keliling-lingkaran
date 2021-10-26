@@ -5,3 +5,8 @@
 input data luas keliling lingkaran <p>
 tampilanya sebagai berikut
 ![img]screenshot/ss1.png
+
+klik run dan save hasilnya
+![img]screenshot/ss2.png
+
+flowchrat menghitung luas keliling lingkarang
